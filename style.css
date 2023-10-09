@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    height: 60vh;
+}
+
+span {
+    margin: 10px;
+}
+
+.btn {
+    padding: 10px 20px ;
+}
+
+
